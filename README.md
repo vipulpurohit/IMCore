@@ -1,4 +1,4 @@
-# Official IntelliMedia Android Moduel
+# Official IntelliMedia Android Module
 
 ## Usages:
 Gradle configuration:
