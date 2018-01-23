@@ -100,7 +100,7 @@ bintray {
 
     configurations = ['archives']
     pkg {
-        repo = "maven"
+        repo = "IMCore"
         // it is the name that appears in bintray when logged
         name = "IMCore" // TODO
         websiteUrl = siteUrl
